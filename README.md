@@ -14,7 +14,7 @@ This project is a machine learning workshop organized by SHE CODE. It aims to in
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Bbrnn`
+1. Clone the repository: `git clone https://github.com/Bbrnn/SHE-CODE-ML-WORKSHOP.git`
 
 ## Usage
 
